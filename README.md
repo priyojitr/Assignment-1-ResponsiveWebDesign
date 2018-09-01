@@ -13,6 +13,7 @@ The cultural community also have social media pages, which members of community 
 6. The layout follows resposnive behavior.
 7. Meta information & code comments have been added whichever and wherever seems fit, along with proper code indentation.
 8. No inline styles have been used.
+
 > Currently, social links and menu links are not functional.
 
 ### Folder Structure
